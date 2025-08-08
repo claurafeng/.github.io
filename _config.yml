@@ -1,5 +1,13 @@
 title: Claura Feng
 #logo:
-#description:
+description: NYU Undergrad Student
 #show_downloads:
 theme: jekyll-theme-minimal
+
+author:
+  # avatar           : "profile.png"
+  name             : "Claura Feng"
+  bio              : "NYU Undergrad Student"
+  location         : "New York, NY"
+  university         : "New York University"
+  email            : "claurafeng2@gmail.com" 
